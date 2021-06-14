@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="instinct.Client"/>
+    <fullyQualifiedTypeName name="net.minecraft.util.ResourceLocation"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.renderer.texture.TextureManager"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.shader.Framebuffer"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.renderer.GlStateManager"/>
+    <fullyQualifiedTypeName name="org.lwjgl.opengl.GL11"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.gui.Gui"/>
+    <fullyQualifiedTypeName name="instinct.gui.SplashProgress"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Target"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="instinct.event.EvenTarget"/>
+    <fullyQualifiedTypeName name="instinct.event.EventManager"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="instinct.Rainbow"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.events.EventTarget"/>
+    <fullyQualifiedTypeName name="instinct.event.Event"/>
+    <fullyQualifiedTypeName name="instinct.event.impl.RenderEvent"/>
+    <fullyQualifiedTypeName name="instinct.gui.hud.HUDManager"/>
+    <fullyQualifiedTypeName name="instinct.mods.ModInstances"/>
+    <fullyQualifiedTypeName name="instinct.event.impl.ClientTickEvent"/>
+    <fullyQualifiedTypeName name="instinct.event.EventTarget"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.entity.AbstractClientPlayer"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.renderer.entity.layers.LayerRenderer"/>
+    <fullyQualifiedTypeName name="javax.swing.text.Position"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="instinct.mods.impl.TestMod"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.gui.ScaledResolution"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
+    <fullyQualifiedTypeName name="instinct.mods.Mod"/>
+    <fullyQualifiedTypeName name="instinct.gui.hud.Mod"/>
+    <fullyQualifiedTypeName name="instinct.mods.ModDraggable"/>
+    <fullyQualifiedTypeName name="instinct.mods.impl.ModFPS"/>
+    <fullyQualifiedTypeName name="instinct.mods.impl.ModFullbright"/>
+    <fullyQualifiedTypeName name="instinct.gui.options.GuiModToggle"/>
+    <fullyQualifiedTypeName name="com.google.gson.annotations.Expose"/>
+    <fullyQualifiedTypeName name="com.google.gson.Gson"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+</qualifiedTypeNameHistroy>
